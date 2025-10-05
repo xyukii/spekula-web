@@ -1,0 +1,76 @@
+a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:2:"
+
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:13:"
+
+
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:30:"Commodities &amp; Futures News";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:25:"https://www.investing.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:10:{i:0;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:65:"https://i-invdn-com.investing.com/trkd-images/LYNXNPEL8S00C_L.jpg";s:6:"length";s:5:"89660";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"Oil prices drop 3% as OPEC+ plans for oil output hike";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 19:18:34";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:7:"Reuters";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:122:"https://www.investing.com/news/commodities-news/oil-slips-as-kurdistan-crude-exports-resume-opec-plans-output-hike-4259398";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:65:"https://i-invdn-com.investing.com/trkd-images/LYNXNPEL8S0TA_L.jpg";s:6:"length";s:5:"57006";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:99:"Mexico meat sector decries new livestock movement rules, ivermectin requirement to battle screwworm";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 18:54:29";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:7:"Reuters";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:154:"https://www.investing.com/news/commodities-news/mexico-meat-sector-decries-new-livestock-movement-rules-ivermectin-requirement-to-battle-screwworm-4261583";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:65:"https://i-invdn-com.investing.com/trkd-images/LYNXNPEL8S0GA_L.jpg";s:6:"length";s:5:"47549";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Trump administration to expand coal leasing, fund coal plant upgrades";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 17:08:13";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:7:"Reuters";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"https://www.investing.com/news/commodities-news/trump-officials-to-announce-plan-to-boost-coal-output-4260489";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:65:"https://i-invdn-com.investing.com/trkd-images/LYNXNPEL8S06Z_L.jpg";s:6:"length";s:5:"42408";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:78:"BP to push ahead with $5 billion Tiber-Guadalupe project in sharpened US focus";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 14:18:54";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:7:"Reuters";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:123:"https://www.investing.com/news/commodities-news/bp-greenlights-5-billion-tiberguadalupe-drilling-project-in-us-gulf-4259645";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:58:"https://i-invdn-com.investing.com/news/LYNXNPEB7P01C_M.jpg";s:6:"length";s:5:"20053";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Oil prices slip as OPEC+ reportedly plans another output hike";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 12:37:13";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:13:"Investing.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:116:"https://www.investing.com/news/commodities-news/oil-prices-slip-as-opec-reportedly-plans-another-output-hike-4259407";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:65:"https://i-invdn-com.investing.com/trkd-images/LYNXNPEL8S0HH_L.jpg";s:6:"length";s:5:"37210";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:57:"BP and Total deepen commitments to US with major projects";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 12:36:48";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:7:"Reuters";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:113:"https://www.investing.com/news/commodities-news/bp-and-total-deepen-commitments-to-us-with-major-projects-4260770";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:58:"https://i-invdn-com.investing.com/news/LYNXMPEB0P0G3_M.jpg";s:6:"length";s:5:"24172";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:81:"Gold prices tops $3,800/oz for first time amid U.S. shutdown risks, rate cut bets";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 11:58:19";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:13:"Investing.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:130:"https://www.investing.com/news/commodities-news/gold-prices-hit-record-high-near-3800oz-on-us-shutdown-risks-rate-cut-bets-4259419";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:65:"https://i-invdn-com.investing.com/trkd-images/LYNXNPEL8S0E7_L.jpg";s:6:"length";s:5:"37391";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:30:"Morning Bid: Shutdown showdown";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 10:56:06";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:7:"Reuters";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:85:"https://www.investing.com/news/commodities-news/morning-bid-shutdown-showdown-4260188";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:58:"https://i-invdn-com.investing.com/news/LYNXNPEB9F05W_M.jpg";s:6:"length";s:5:"30114";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:59:"EU imposes anti-dumping measures on Japanese steel products";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 10:01:27";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:13:"Investing.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:119:"https://www.investing.com/news/commodities-news/eu-imposes-antidumping-measures-on-japanese-steel-products-93CH-4259931";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:6:"
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:9:"enclosure";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:65:"https://i-invdn-com.investing.com/trkd-images/LYNXNPEL8S0B7_L.jpg";s:6:"length";s:5:"59752";s:4:"type";s:10:"image/jpeg";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:59:"Saudi Arabia expected to lift November crude prices to Asia";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:19:"2025-09-29 09:36:26";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:5:{s:4:"data";s:7:"Reuters";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:115:"https://www.investing.com/news/commodities-news/saudi-arabia-expected-to-lift-november-crude-prices-to-asia-4259873";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";O:48:"WpOrg\Requests\Utility\CaseInsensitiveDictionary":1:{s:7:" * data";a:19:{s:4:"date";s:29:"Mon, 29 Sep 2025 21:00:09 GMT";s:12:"content-type";s:19:"application/rss+xml";s:6:"cf-ray";s:20:"986e6891fe8fdf9b-CGK";s:4:"vary";s:27:"Accept-Encoding, User-Agent";s:13:"last-modified";s:29:"Mon, 29 Sep 2025 20:59:18 GMT";s:4:"etag";s:22:"W/"10b9-63ff6e8b1d4a9"";s:10:"set-cookie";s:896:"udid=2c1963bef478f29d66fa5c7f813b4b14; Max-Age=31536000; domain=investing.com; Path=/, inudid=2c1963bef478f29d66fa5c7f813b4b14; Max-Age=31536000; domain=investing.com; Path=/, smd=2c1963bef478f29d66fa5c7f813b4b14-1759179609; Max-Age=1800; domain=investing.com; Path=/, firstUdid=1; Max-Age=2; domain=investing.com; Path=/, invab=hrdvidallb_0|mfootnavb_0|navbarctab_0|noleftad_1|onboarding_2|ovlayouta_-1|regwallb_0; Domain=investing.com; Path=/; Max-Age=31536000, __cf_bm=gq_5fb9F05rnt14bxwzGE3IGjCUmfzB4Raej70ZaW5k-1759179609-1.0.1.1-SZ0h4FDiBga.XMQJaVzWFHxUgmeDjemNbXwCRBmF5CfLS2tWU5IXQhu3Y0ttgoj_G1nHlTJLZ6FdZbsb3tguoLEmlcaPGTJtjoHREZ2VWdizz4FIvWOq2wtXaNhqlPTE; path=/; expires=Mon, 29-Sep-25 21:30:09 GMT; domain=.investing.com; HttpOnly; Secure; SameSite=None, __cflb=02DiuGRugds2TUWHMkimYPAcC3JQrXKkBW8QyfvEkeiwn; SameSite=None; Secure; path=/; expires=Tue, 30-Sep-25 20:00:09 GMT; HttpOnly";s:28:"cross-origin-embedder-policy";s:11:"unsafe-none";s:26:"cross-origin-opener-policy";s:12:"cross-origin";s:28:"cross-origin-resource-policy";s:12:"cross-origin";s:23:"content-security-policy";s:50:"upgrade-insecure-requests; block-all-mixed-content";s:14:"x-cache-status";s:6:"BYPASS";s:13:"x-environment";s:7:"hk-prod";s:12:"x-request-id";s:32:"2c1963bef478f29d66fa5c7f813b4b14";s:16:"content-encoding";s:4:"gzip";s:15:"cf-cache-status";s:7:"DYNAMIC";s:13:"server-timing";s:59:"cfCacheStatus;desc="DYNAMIC", cfOrigin;dur=54,cfEdge;dur=16";s:6:"server";s:10:"cloudflare";s:7:"alt-svc";s:19:"h3=":443"; ma=86400";}}s:5:"build";i:1727736619;s:21:"cache_expiration_time";i:1759183205;s:23:"__cache_expiration_time";i:1759183205;}
